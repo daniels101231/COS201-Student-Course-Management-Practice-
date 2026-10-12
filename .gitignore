@@ -1,0 +1,9 @@
+# Compiled Java output (rebuilt every time you compile)
+bin/
+out/
+*.class
+
+# Operating-system clutter
+Thumbs.db
+desktop.ini
+.DS_Store
